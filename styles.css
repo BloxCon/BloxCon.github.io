@@ -1,0 +1,308 @@
+html { 
+  background: url(https://cdn.wallpapersafari.com/3/58/0kufIN.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+
+lable {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+
+
+.nav-bar {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+header {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+.loginbtn {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+
+
+.homelogin {
+    position: absolute;
+    bottom: 250px;
+    left: 50px
+    width: 50px
+}
+
+
+
+
+
+
+.logincard {
+    background-color: lightblue;
+    border-radius: 4px;
+    border-color: black;
+    padding: 25px;
+    width: 200px;
+}
+
+
+.nav-bar {
+    background-color: lightblue;
+    padding: 5px;
+    width: 500px;
+    font-size: 15px;
+}
+
+
+.nav-bar {
+    position: absolute;
+    right: 420px;
+}
+
+.loginbtn {
+  transition-duration: 0.4s;
+}
+
+.loginbtn:hover {
+  background-color: blue; /* Green */
+  color: white;
+}
+
+
+
+.loginbtn {
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+.loginbtn {
+    font-size: 15px;
+    color: black;
+}
+
+
+
+
+.username-input-login {
+    border: solid;
+    border-color: blue;
+    border-radius: 4px;
+    background-color: white;
+    width: 150px;
+}
+
+
+
+
+.password-input-login {
+    border: solid;
+    border-color: blue;
+    border-radius: 4px;
+    background-color: white;
+    width: 150px;
+}
+
+
+
+
+h3 {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+h2 {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+p {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+
+
+.welcome-to-bloxcon {
+    background-color: lightblue;
+    width: 705px;
+    padding: 25px;
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+    left: 305px;
+}
+
+
+
+.sign-up-link {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+.sign-up-prompt {
+    background-color: lightblue;
+    width: 226px;
+    height: 400px;
+    padding: 15px;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    top: 100px;
+}
+
+
+
+.signupcard {
+    background-color: lightblue;
+    border-radius: 4px;
+    border-color: black;
+    padding: 25px;
+    width: 200px;
+}
+
+
+
+
+.signuplogin {
+    position: absolute;
+    right: 550px;
+}
+
+
+
+h4 {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+
+.playbtn {
+  transition-duration: 0.4s;
+}
+
+.playbtn:hover {
+  background-color: blue; /* Green */
+  color: white;
+}
+
+
+
+.playbtn {
+    border: 2px solid blue;
+    background-color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+
+
+.playbtn {
+    font-family: "Brush Script MT", cursive;
+}
+
+
+
+.game-card-1 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px; 
+    
+}
+
+
+
+
+.game-card-2 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px;
+    right: 910px;
+    
+}
+
+
+
+
+
+.game-card-3 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px;
+    right: 670px;
+    
+}
+
+
+
+.item-card-1 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px; 
+    
+}
+
+
+
+
+.item-card-2 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px;
+    right: 910px;
+    
+}
+
+
+
+
+
+.item-card-3 {
+    background-color: lightblue;
+    width: 162px;
+    height: 252px;
+    border-radius: 4px;
+    padding: 25px;
+    position: absolute;
+    bottom: 220px;
+    right: 670px;
+    
+}
