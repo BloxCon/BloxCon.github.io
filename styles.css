@@ -306,3 +306,18 @@ h4 {
     right: 670px;
     
 }
+
+
+
+
+
+.buckscard {
+    background-color: lightblue;
+    border-radius: 4px;
+    border-color: black;
+    padding: 25px;
+    width: 200px;
+    position: absolute;
+    left: -250px;
+    bottom: -230px;
+}
